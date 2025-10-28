@@ -1,3 +1,3 @@
-public class Auto implements Runnable {
+public class Auto implements runnable {
 
 }
